@@ -1,2 +1,0 @@
-# AlfidoTech-Internship
-Java Programming 
